@@ -1,0 +1,5 @@
+{
+  "name": "Snake Survival",
+  "description": "A survival twist on the classic Snake game. Control your snake with WASD or Arrow Keys and battle against multiple AI-controlled opponents. Outmaneuver the AI, force them to crash, and eat their remains to grow and score points. Survive as long as you can!",
+  "requestFramePermissions": []
+}
